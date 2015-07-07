@@ -1,7 +1,7 @@
 {
-  "name": "19-browserify-test",
+  "name": "spike-02-browserify-backbone",
   "version": "1.0.0",
-  "description": "test on using browserify tool",
+  "description": "test on using browserify tool with backbone",
   "main": "main.js",
   "private": true,
   "scripts": {
